@@ -73,11 +73,9 @@ In this project, I played the role of a Security Operations Center (SOC) Analyst
 
 - README.md
 - commands.sh
-- windows_server_logs.csv
-- apache_logs.txt
-- Window_Dashboard
-- Attack Day Dashboards
+- Windows & Apache Analysis Dashboards
+- Windows & Apache Attack Day Analysis Dashboards
 - alerts_config.png
 - Security Monitoring At Virtual Space Industries.pdf
-- Whois-GeoAddon-summary.md
+
 
