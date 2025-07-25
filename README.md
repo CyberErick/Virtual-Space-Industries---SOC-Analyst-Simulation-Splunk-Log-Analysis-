@@ -75,7 +75,8 @@ In this project, I played the role of a Security Operations Center (SOC) Analyst
 - commands.sh
 - windows_server_logs.csv
 - apache_logs.txt
-- screenshots/
+- Window_Dashboard
+- Apache_Dashboard
 - alerts_config.png
 - Security Monitoring At Virtual Space Industries.pdf
 - Whois-GeoAddon-summary.md
